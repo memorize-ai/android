@@ -1,5 +1,8 @@
 # memorize_ai
 
+![build](https://github.com/memorize-ai/android/workflows/build/badge.svg)
+![format](https://github.com/memorize-ai/android/workflows/format/badge.svg)
+
 A new Flutter project.
 
 ## Getting Started
